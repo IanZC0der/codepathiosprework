@@ -13,6 +13,9 @@ The following **required** functionality is completed:
 -  Users are see a screen with three labels and a button
 -  Tapping the button changes the screen color to a random color
 
+## Gif for App Walkthrough
+
+![App Walkthrough](https://imgur.com/a/KNOjvt4)
 ## App Brainstorming (Step 4)
 ### My 3 favorite apps
 
@@ -40,8 +43,6 @@ movies, books, and songs. This should be a core functionality for this app. The 
 like. 
 
 
-
-###
 
 ## Notes
 
