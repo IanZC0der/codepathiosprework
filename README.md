@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Gif for App Walkthrough
 
-![App Walkthrough](https://imgur.com/a/KNOjvt4)
+![App Walkthrough](https://imgur.com/a/KNOjvt4.gif)
 ## App Brainstorming (Step 4)
 ### My 3 favorite apps
 
